@@ -1,6 +1,5 @@
 h1 {
 font-family: 'Libre Baskerville', serif;
-color: white;
 text-align: center;
 text-transform: uppercase;
 }
@@ -24,4 +23,5 @@ text-align: center;
 
 #page {
     background-color: black;
+    color: white;
 }
