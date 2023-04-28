@@ -1,5 +1,27 @@
 h1 {
 font-family: 'Libre Baskerville', serif;
 color: white;
-background-color: black;
+text-align: center;
+text-transform: uppercase;
+}
+
+#Motivation {
+    margin: 25%;
+    width: 50%;
+}
+
+.Image1 {
+width: 100%;
+border: 5px;
+border: solid white;
+}
+
+p {
+font-family: 'Libre Baskerville', serif;
+color: white;
+text-align: center;
+}
+
+#page {
+    background-color: black;
 }
