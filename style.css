@@ -1,13 +1,14 @@
-h1 {
+h2 {
 font-family: 'Libre Baskerville', serif;
 text-align: center;
 text-transform: uppercase;
 }
 
-#Motivation {
-    margin: 25%;
-    width: 50%;
-}
+p {
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+    text-align: center;
+    }
 
 .Image1 {
 width: 100%;
@@ -15,10 +16,9 @@ border: 5px;
 border: solid white;
 }
 
-p {
-font-family: 'Libre Baskerville', serif;
-color: white;
-text-align: center;
+#Motivation {
+    margin: 25%;
+    width: 50%;
 }
 
 #page {
